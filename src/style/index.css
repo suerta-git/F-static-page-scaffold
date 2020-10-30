@@ -57,3 +57,37 @@ ul {
   width: 0.7rem;
   margin-left: 0.4rem;
 }
+
+.main {
+  padding: 2rem 15%;
+  background-color: #e9ebee;
+}
+
+.introduction > h2 {
+  margin: 0;
+}
+
+.content {
+  margin-top: 4rem;
+}
+
+.entrance-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.entrance-list > li {
+  background-color: white;
+  width: 49%;
+  padding: 20px;
+  text-align: center;
+}
+
+.entrance-figure {
+  margin: 0;
+  margin-bottom: 5rem;
+}
+
+.entrance-figure p {
+  color: gray;
+}
